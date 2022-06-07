@@ -1,0 +1,17 @@
+[
+  {
+    "label":"Instagram",
+    "icon":"https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/icons/instagram.svg",
+    "link":"https://www.instagram.com/filipe_souza25/"
+  },
+  {
+    "label":"Facebook",
+    "icon":"https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/icons/facebook.svg",
+    "https://www.facebook.com/filipe.souzasantos.14"
+  },
+  {
+    "label":"Twitter",
+    "icon":"https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/icons/twitter.svg",
+    "link":"https://github.com/filipesouzasantos"
+  }
+]
